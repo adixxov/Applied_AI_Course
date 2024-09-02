@@ -1,8 +1,8 @@
 # NLP: A Primer
 
-## 🔖 Outline
+## 🔖 NLP in the Real World
 
-* NLP in the Real World
+* 
     * Core applications:
 
          * Email platforms, such as Gmail, Outlook, etc., use NLP extensively to provide a range of product features, such as spam classification, priority inbox, calendar event extraction, auto-complete, etc.
@@ -44,6 +44,8 @@
  
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-2.png)
 
+Machine Learning, Deep Learning, and NLP: An Overview
+
 * Approaches to NLP
   * Heuristics-Based NLP
   * Machine Learning for NLP
@@ -53,8 +55,6 @@
 * Wrapping Up
 
 ## 🖼️ Figures
-
-Color figures as requested by the readers. 
 
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-1.png)
 
