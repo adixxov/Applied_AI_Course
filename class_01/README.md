@@ -2,8 +2,7 @@
 
 ## 🔖 NLP in the Real World
 
-* 
-    * Core applications:
+* Core applications:
 
          * Email platforms, such as Gmail, Outlook, etc., use NLP extensively to provide a range of product features, such as spam classification, priority inbox, calendar event extraction, auto-complete, etc.
 
@@ -13,7 +12,7 @@
 
          * Machine translation services, such as Google Translate, Bing Microsoft Translator, and Amazon Translate are increasingly used in today’s world to solve a wide range of scenarios and business use cases. These services are direct applications of NLP.
      
-    * Other applications:
+* Other applications:
 
          * Organizations across verticals analyze their social media feeds to build a better and deeper understanding of the voice of their customers. We’ll cover this in Chapter 8.
 
