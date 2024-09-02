@@ -41,6 +41,8 @@
     * Question answering: This is the task of building a system that can automatically answer questions posed in natural language.
     * Machine translation: This is the task of converting a piece of text from one language to another. Tools like Google Translate are common applications of this task.
     * Topic modeling: This is the task of uncovering the topical structure of a large collection of documents. Topic modeling is a common text-mining tool and is used in a wide range of domains, from literature to bioinformatics.
+ 
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-2.png)
 
 * Approaches to NLP
   * Heuristics-Based NLP
@@ -55,7 +57,7 @@
 Color figures as requested by the readers. 
 
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-1.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-2.png)
+
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-3.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-4.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-5.png)
