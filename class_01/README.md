@@ -5,7 +5,15 @@
 Section outline as covered in the book. 
 
 * NLP in the Real World
-  * NLP Tasks
+  * Core applications:
+
+    Email platforms, such as Gmail, Outlook, etc., use NLP extensively to provide a range of product features, such as spam classification, priority inbox, calendar event extraction, auto-complete, etc. We’ll discuss some of these in detail in Chapters 4 and 5.
+
+Voice-based assistants, such as Apple Siri, Google Assistant, Microsoft Cortana, and Amazon Alexa rely on a range of NLP techniques to interact with the user, understand user commands, and respond accordingly. We’ll cover key aspects of such systems in Chapter 6, where we discuss chatbots.
+
+Modern search engines, such as Google and Bing, which are the cornerstone of today’s internet, use NLP heavily for various subtasks, such as query understanding, query expansion, question answering, information retrieval, and ranking and grouping of the results, to name a few. We’ll discuss some of these subtasks in Chapter 7.
+
+Machine translation services, such as Google Translate, Bing Microsoft Translator, and Amazon Translate are increasingly used in today’s world to solve a wide range of scenarios and business use cases. These services are direct applications of NLP. We’ll touch on machine translation in Chapter 7.
 * What Is Language?
   * How Does Language Make NLP Challenging?
 * Machine Learning, Deep Learning, and NLP: An Overview
