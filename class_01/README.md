@@ -70,6 +70,10 @@ Machine learning techniques are applied to textual data just as they’re used o
          * regression techniques, which give a numeric prediction, can be used to estimate the price of a stock based on processing the social media discussion about that stock. 
          * unsupervised clustering algorithms can be used to club together text documents.
 
+![image](https://github.com/user-attachments/assets/40b01c75-9f28-45ab-995c-68a79c12b121)
+![image](https://github.com/user-attachments/assets/0482cbc1-9558-42d9-986d-b7e99ce8fa15)
+
+
 #### 1. Naive Bayes
 Naive Bayes is a classic algorithm for classification tasks [16] that mainly relies on Bayes’ theorem (as is evident from the name). Using Bayes’ theorem, it          calculates the probability of observing a class label given the set of features for the input data. 
 
