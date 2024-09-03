@@ -53,15 +53,17 @@
  
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-2.png)
 
-### Machine Learning, Deep Learning, and NLP: An Overview
-
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-8.png)
-
 ### Approaches to NLP
   * Machine Learning for NLP
   * Deep Learning for NLP
 
 ### Machine Learning for NLP
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-8.png)
+![image](https://github.com/user-attachments/assets/f80366eb-d625-408e-86fc-6c91155e11d5)
+![image](https://github.com/user-attachments/assets/0994f419-f57c-4039-937d-78bf85ce9927)
+
+![image](https://github.com/user-attachments/assets/bf7bc19e-f1da-4ab1-af3c-21d3399e7bf2)
+
 
 Machine learning techniques are applied to textual data just as they’re used on other forms of data, such as images, speech, and structured data. Supervised machine learning techniques such as classification and regression methods are heavily used for various NLP tasks. As an example, 
 
@@ -89,6 +91,13 @@ The hidden Markov model (HMM) is a statistical model [18] that assumes there is 
 The conditional random field (CRF) is another algorithm that is used for sequential data. Conceptually, a CRF essentially performs a classification task on each element in the sequence.
 
 ### Deep Learning for NLP
+
+#### The Perceptron
+In 1957, the first implementation of a biologically inspired machine learning component was realized: Rosenblatt’s perceptron. This device, implemented on physical hardware, allowed the processing of visual stimuli represented by a square 400 (20 by 20) array of photosensitive cells. The weights of this network were set by electromotors driving potentiometers. The learning part of this perceptron was based on a simple one-layer neural network, which effectively became the archetype of neural networks
+![image](https://github.com/user-attachments/assets/2ecfe2ae-33c0-46cc-975e-31efd3efc402)
+![image](https://github.com/user-attachments/assets/db7cb006-8f4e-4c47-a1af-52a31a7281b1)
+
+
 
 #### 1. Recurrent neural networks
 A sentence in any language flows from one direction to another (e.g., English reads from left to right). Thus, a model that can progressively read an input text from one end to another can be very useful for language understanding. Recurrent neural networks (RNNs) are specially designed to keep such sequential processing and learning in mind. RNNs have neural units that are capable of remembering what they have processed so far. This memory is temporal, and the information is stored and updated with every time step as the RNN reads the next word in the input.
