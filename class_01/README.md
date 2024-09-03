@@ -12,7 +12,8 @@
 
          * Machine translation services, such as Google Translate, Bing Microsoft Translator, and Amazon Translate are increasingly used in today’s world to solve a wide range of scenarios and business use cases. These services are direct applications of NLP.
      
-### Other applications:
+### Other applications:![image](https://github.com/user-attachments/assets/b84702fa-9a18-4912-8998-a554ea27ad1f)
+
 
          * Organizations across verticals analyze their social media feeds to build a better and deeper understanding of the voice of their customers.
 
@@ -63,13 +64,6 @@
 ![image](https://github.com/user-attachments/assets/b24886ae-c581-4dfd-a5a5-c579b8f6dc6b)
 ![image](https://github.com/user-attachments/assets/9de79b1c-21c1-4183-bb85-754bd126ed2f)
 ![image](https://github.com/user-attachments/assets/50db3193-3b18-4d56-9d08-79f7798debec)
-
-
-![image](https://github.com/user-attachments/assets/f80366eb-d625-408e-86fc-6c91155e11d5)
-![image](https://github.com/user-attachments/assets/0994f419-f57c-4039-937d-78bf85ce9927)
-
-![image](https://github.com/user-attachments/assets/bf7bc19e-f1da-4ab1-af3c-21d3399e7bf2)
-
 
 Machine learning techniques are applied to textual data just as they’re used on other forms of data, such as images, speech, and structured data. Supervised machine learning techniques such as classification and regression methods are heavily used for various NLP tasks. As an example, 
 
