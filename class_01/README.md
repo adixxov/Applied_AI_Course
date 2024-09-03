@@ -53,15 +53,21 @@
  
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-2.png)
 
-Machine Learning, Deep Learning, and NLP: An Overview
+* Machine Learning, Deep Learning, and NLP: An Overview
+
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-8.png)
 
 * Approaches to NLP
-  * Heuristics-Based NLP
   * Machine Learning for NLP
   * Deep Learning for NLP
-  * Why Deep Learning Is Not Yet the Silver Bullet for NLP
-* An NLP Walkthrough: Conversational Agents
-* Wrapping Up
+
+* Machine Learning for NLP
+
+Machine learning techniques are applied to textual data just as they’re used on other forms of data, such as images, speech, and structured data. Supervised machine learning techniques such as classification and regression methods are heavily used for various NLP tasks. As an example, 
+
+         * an NLP classification task would be to classify news articles into a set of news topics like sports or politics.
+         
+         * regression techniques, which give a numeric prediction, can be used to estimate the price of a stock based on processing the social media discussion about that stock. Similarly, unsupervised clustering algorithms can be used to club together text documents.
 
 ## 🖼️ Figures
 
@@ -72,7 +78,7 @@ Machine Learning, Deep Learning, and NLP: An Overview
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-5.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-6.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-7.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-8.png)
+
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-9.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-10.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-11.png)
