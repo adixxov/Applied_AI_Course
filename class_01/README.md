@@ -70,8 +70,37 @@ Machine learning techniques are applied to textual data just as they’re used o
          * regression techniques, which give a numeric prediction, can be used to estimate the price of a stock based on processing the social media discussion about that stock. 
          * unsupervised clustering algorithms can be used to club together text documents.
 
-        #### 1. Naive Bayes
-        Naive Bayes is a classic algorithm for classification tasks [16] that mainly relies on Bayes’ theorem (as is evident from the name). Using Bayes’ theorem, it          calculates the probability of observing a class label given the set of features for the input data. 
+#### 1. Naive Bayes
+Naive Bayes is a classic algorithm for classification tasks [16] that mainly relies on Bayes’ theorem (as is evident from the name). Using Bayes’ theorem, it          calculates the probability of observing a class label given the set of features for the input data. 
+
+#### 2. Support vector machine
+The support vector machine (SVM) is another popular classification [17] algorithm. The goal in any classification approach is to learn a decision boundary that acts as a separation between different categories of text (e.g., politics versus sports in our news classification example). This decision boundary can be linear or nonlinear (e.g., a circle). An SVM can learn both a linear and nonlinear decision boundary to separate data points belonging to different classes. 
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-11.png)
+
+#### 3. Hidden Markov Model
+The hidden Markov model (HMM) is a statistical model [18] that assumes there is an underlying, unobservable process with hidden states that generates the data—i.e., we can only observe the data once it is generated. An HMM then tries to model the hidden states from this data. 
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-12.png)
+
+#### 4. Conditional random fields
+The conditional random field (CRF) is another algorithm that is used for sequential data. Conceptually, a CRF essentially performs a classification task on each element in the sequence.
+
+### Deep Learning for NLP
+
+#### 1. Recurrent neural networks
+A sentence in any language flows from one direction to another (e.g., English reads from left to right). Thus, a model that can progressively read an input text from one end to another can be very useful for language understanding. Recurrent neural networks (RNNs) are specially designed to keep such sequential processing and learning in mind. RNNs have neural units that are capable of remembering what they have processed so far. This memory is temporal, and the information is stored and updated with every time step as the RNN reads the next word in the input.
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-13.png)
+
+#### 2. Long short-term memory
+Despite their capability and versatility, RNNs suffer from the problem of forgetful memory—they cannot remember longer contexts and therefore do not perform well when the input text is long, which is typically the case with text inputs. Long short-term memory networks (LSTMs), a type of RNN, were invented to mitigate this shortcoming of the RNNs. LSTMs circumvent this problem by letting go of the irrelevant context and only remembering the part of the context that is needed to solve the task at hand. This relieves the load of remembering very long context in one vector representation. LSTMs have replaced RNNs in most applications because of this workaround.
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-14.png)
+
+#### 3. Convolutional neural networks
+Convolutional neural networks (CNNs) are very popular and used heavily in computer vision tasks like image classification, video recognition, etc. CNNs have also seen success in NLP, especially in text-classification tasks. One can replace each word in a sentence with its corresponding word vector, and all vectors are of the same size (d) (refer to “Word Embeddings” in Chapter 3). Thus, they can be stacked one over another to form a matrix or 2D array of dimension n ✕ d, where n is the number of words in the sentence and d is the size of the word vectors. This matrix can now be treated similar to an image and can be modeled by a CNN. The main advantage CNNs have is their ability to look at a group of words together using a context window. For example, we are doing sentiment classification, and we get a sentence like, “I like this movie very much!” In order to make sense of this sentence, it is better to look at words and different sets of contiguous words. CNNs can do exactly this by definition of their architecture. 
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-15.png)
+
+#### 4. Transformers
+Transformers [28] are the latest entry in the league of deep learning models for NLP. Transformer models have achieved state of the art in almost all major NLP tasks in the past two years. They model the textual context but not in a sequential manner. Given a word in the input, it prefers to look at all the words around it (known as self-attention) and represent each word with respect to its context. For example, the word “bank” can have different meanings depending on the context in which it appears. If the context talks about finance, then “bank” probably denotes a financial institution. On the other hand, if the context mentions a river, then it probably indicates a bank of the river. Transformers can model such context and hence have been used heavily in NLP tasks due to this higher representation capacity as compared to other deep networks.
+![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-16.png)
 
 ## 🖼️ Figures
 
@@ -87,10 +116,7 @@ Machine learning techniques are applied to textual data just as they’re used o
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-10.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-11.png)
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-12.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-13.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-14.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-15.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-16.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-17.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-18.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-19.png)
+
+
+
+
