@@ -59,6 +59,12 @@
 
 ### Machine Learning for NLP
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-8.png)
+
+![image](https://github.com/user-attachments/assets/b24886ae-c581-4dfd-a5a5-c579b8f6dc6b)
+![image](https://github.com/user-attachments/assets/9de79b1c-21c1-4183-bb85-754bd126ed2f)
+![image](https://github.com/user-attachments/assets/50db3193-3b18-4d56-9d08-79f7798debec)
+
+
 ![image](https://github.com/user-attachments/assets/f80366eb-d625-408e-86fc-6c91155e11d5)
 ![image](https://github.com/user-attachments/assets/0994f419-f57c-4039-937d-78bf85ce9927)
 
