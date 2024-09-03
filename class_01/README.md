@@ -128,6 +128,13 @@ Transformers [28] are the latest entry in the league of deep learning models for
 ## 🔖 Models Evaluation
 
 Consider an anti-spam model that predicts whether a received email is spam or not and automatically sends spam emails to a junk folder. One simple measure of evaluating performance is accuracy:
+
+Precision(class c) = number of instances of class c correctly identified as class c / total number of instances the classifier identifies as class c
+This shows reliability of your algorithm.
+
+Recall(class c) = number of instances of class c correctly identified as class c / total number of actual instances of class c in the set
+This shows the coverage of your algorithm.
+
 ![image](https://github.com/user-attachments/assets/92e27b2a-9bb6-43c4-9116-e48728bf10c8)
 ![image](https://github.com/user-attachments/assets/61ba3478-89e8-4a6b-8e0e-4471f08eaf29)
 
