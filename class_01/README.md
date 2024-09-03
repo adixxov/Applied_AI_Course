@@ -101,22 +101,3 @@ Convolutional neural networks (CNNs) are very popular and used heavily in comput
 #### 4. Transformers
 Transformers [28] are the latest entry in the league of deep learning models for NLP. Transformer models have achieved state of the art in almost all major NLP tasks in the past two years. They model the textual context but not in a sequential manner. Given a word in the input, it prefers to look at all the words around it (known as self-attention) and represent each word with respect to its context. For example, the word “bank” can have different meanings depending on the context in which it appears. If the context talks about finance, then “bank” probably denotes a financial institution. On the other hand, if the context mentions a river, then it probably indicates a bank of the river. Transformers can model such context and hence have been used heavily in NLP tasks due to this higher representation capacity as compared to other deep networks.
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-16.png)
-
-## 🖼️ Figures
-
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-1.png)
-
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-3.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-4.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-5.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-6.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-7.png)
-
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-9.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-10.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-11.png)
-![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-12.png)
-
-
-
-
