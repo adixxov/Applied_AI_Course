@@ -12,7 +12,7 @@
 
          * Machine translation services, such as Google Translate, Bing Microsoft Translator, and Amazon Translate are increasingly used in today’s world to solve a wide range of scenarios and business use cases. These services are direct applications of NLP.
      
-* Other applications:
+### Other applications:
 
          * Organizations across verticals analyze their social media feeds to build a better and deeper understanding of the voice of their customers.
 
@@ -31,7 +31,7 @@
          * NLP is used to build large knowledge bases, such as the Google Knowledge Graph, which are useful in a range of applications like search and question answering.
            
 
-* NLP Tasks:
+### NLP Tasks:
 
          * Language modeling: This is the task of predicting what the next word in a sentence will be based on the history of previous words. The goal of this task is to learn the probability of a sequence of words appearing in a given language. Language modeling is useful for building solutions for a wide variety of problems, such as speech recognition, optical character recognition, handwriting recognition, machine translation, and spelling correction.
 
@@ -53,15 +53,15 @@
  
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-2.png)
 
-* Machine Learning, Deep Learning, and NLP: An Overview
+### Machine Learning, Deep Learning, and NLP: An Overview
 
 ![figure](https://github.com/practical-nlp/practical-nlp-figures/raw/master/figures/1-8.png)
 
-* Approaches to NLP
+### Approaches to NLP
   * Machine Learning for NLP
   * Deep Learning for NLP
 
-* Machine Learning for NLP
+### Machine Learning for NLP
 
 Machine learning techniques are applied to textual data just as they’re used on other forms of data, such as images, speech, and structured data. Supervised machine learning techniques such as classification and regression methods are heavily used for various NLP tasks. As an example, 
 
