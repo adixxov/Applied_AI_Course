@@ -2,7 +2,7 @@
 
 ## 🔖 NLP in the Real World
 
-* Core applications:
+### Core applications:
 
          * Email platforms, such as Gmail, Outlook, etc., use NLP extensively to provide a range of product features, such as spam classification, priority inbox, calendar event extraction, auto-complete, etc.
 
