@@ -1,0 +1,14 @@
+transformers
+torch
+torchvision
+torchaudio
+accelerate
+sentence-transformers
+gensim
+datasets
+python-dotenv
+openai
+cohere
+umap-learn
+hdbscan
+bertopic
